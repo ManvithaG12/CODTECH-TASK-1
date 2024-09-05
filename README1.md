@@ -11,7 +11,7 @@ Project: Simple Calculator
 
 Objective: The objective of this project is to create a simple command-line calculator in Python that allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers.
 
-
+![IMG-20240904-WA0016](https://github.com/user-attachments/assets/911a2903-d6ce-41d5-8dff-98a57e628e6a)
 Features:
 
 User Input: The program prompts the user to enter two numbers and choose an operation (addition, subtraction, multiplication, or division).
